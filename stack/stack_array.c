@@ -1,7 +1,7 @@
 /*
 File: stack_array.c
 Description: Stack implementation using array
-Author: Leo
+Author: Jagdish Natarajan C
 */
 
 #include <stdio.h>
